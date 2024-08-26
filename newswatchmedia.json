@@ -1,0 +1,43 @@
+{
+   "feed": {
+      "mailing": {
+         "blocks": {
+            "block": {
+               "name": "hotels",
+               "items": {
+                  "item": [
+                     {
+                        "variables": {
+                           "variable": [
+                              {
+                                 "key": "name",
+                                 "value": "Hilton"
+                              },
+                              {
+                                 "key": "location",
+                                 "value": "NYC"
+                              }
+                           ]
+                        }
+                     },
+                     {
+                        "variables": {
+                           "variable": [
+                              {
+                                 "key": "name",
+                                 "value": "Hilton"
+                              },
+                              {
+                                 "key": "location",
+                                 "value": "LA"
+                              }
+                           ]
+                        }
+                     }
+                  ]
+               }
+            }
+         }
+      }
+   }
+}
